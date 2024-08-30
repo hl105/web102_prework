@@ -18,8 +18,8 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+![gif](https://i.imgur.com/6Mi7Yz9.gif)
 
-<img src='https://i.imgur.com/6Mi7Yz9.gif' title='Video Walkthrough' alt='Video Walkthrough' />
 
 GIF created with 
 [Kap](https://getkap.co/) for macOS

@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![gif](https://i.imgur.com/6Mi7Yz9.gif)
+![gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWQ3Y2p4aTh3c3d2NHMzajFjMzMwOTEwaDAzaWpscXB6c2syZHlyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SLT1Pp5TUlFMzDO8hF/giphy.gif)
 
 
 GIF created with 

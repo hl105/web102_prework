@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/B2FJ7Qy" data-context="false" ><a href="//imgur.com/a/B2FJ7Qy"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src='https://i.imgur.com/6Mi7Yz9.gif[/img]' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with 
 [Kap](https://getkap.co/) for macOS
